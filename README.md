@@ -11,7 +11,7 @@ DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is m
     
 ## Test OpenSimulator binary include MoneyServer and ossl script example 
 ### Download: 
-binary testfiles Ubuntu 18 + Scripts + Money + landtool:  https://eu2.contabostorage.com/52253033fae547669ac2197e11daac60:bigmanzai/opensim-0.9.2.2.197.zip
+binary testfiles Ubuntu 22 + Scripts + Money + landtool:  https://eu2.contabostorage.com/52253033fae547669ac2197e11daac60:bigmanzai/opensim-0.9.2.2.353.zip
  
 ## copy:
 
